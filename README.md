@@ -1,8 +1,8 @@
 # Template-Webpack-Pug-Sass
 Template for automation Webpack Pug Sass
-
+```
 npm init
-
+```
 
 need structure folder
 
@@ -19,3 +19,7 @@ css fonts  img    js  index.html            index.js       style.sass
                   |                       (entry point) 
                bundle.js
  ```
+START PROJECT command 
+```
+npm run build
+```
